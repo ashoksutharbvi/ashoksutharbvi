@@ -26,8 +26,5 @@
    <h3>✨ My Social Media ✨</h3>
   
   <a href="https://www.linkedin.com/in/lauracacique/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
-  
-  <p>Thanks to: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://dev.to/envoy_/150-badges-for-github-pnk">Vedant Chainani</a> and <a href="https://devicon.dev/">Devicon</a></p>
 
 </div>
