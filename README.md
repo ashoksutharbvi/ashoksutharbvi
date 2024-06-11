@@ -1,8 +1,7 @@
 <div align="center">
-  <h1> ✨ Hello, I'm <a href="https://www.linkedin.com/in/lauracacique/">Laura Vital ✨</a> </h1>
-  <h3>Web Development Intern</h3>
-  <p>Systems Information Student.</p>
-  <p>Web Development.</p>
+  <h1> ✨ Hello, I'm <a href="https://www.linkedin.com/in/lauracacique/">Ashok Suthar ✨</a> </h1>
+  <h3>Frontend Developer</h3>
+  <p>Brainvire Infotech</p>
   
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauravitalc&layout=compact&theme=radical">
