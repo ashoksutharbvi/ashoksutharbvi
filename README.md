@@ -4,7 +4,7 @@
   <p>Brainvire Infotech</p>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauravitalc&layout=compact&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashoksutharbvi&layout=pie">
   </p>
   
   
